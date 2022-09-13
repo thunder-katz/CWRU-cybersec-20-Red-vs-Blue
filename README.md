@@ -101,13 +101,10 @@ Day 2:
 
 </details>
 
----
+## Red Vs. Blue Project
 
-## Week 20 Homework Solution: Red Vs. Blue Team Project
+Completed Presentation: 
 
-Refer to the following solution files for the homework worksheets: 
+* [Red Team Vs. Blue Team Project](https://github.com/thunder-katz/CWRU-cybersec-20-Red-vs-Blue/blob/main/Week%2020%20HW.pdf)  
 
-* [Week 20 Homework Solution: Red Vs. Blue Team Project](https://github.com/thunder-katz/CWRU-cybersec-20-Red-vs-Blue/blob/main/Week%2020%20HW.pdf)  
-
----
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
